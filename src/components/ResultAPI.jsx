@@ -15,7 +15,7 @@ const ResultAPI = ({ dataAPI }) => {
           The price is: <span className="font-light">{PRICE}</span>
         </p>
         <p className="tablet:p-2">
-          Highest price of the day:
+          Highest price of the Day:
           <span className="font-light">{HIGHDAY}</span>
         </p>
         <p className="tablet:p-2">
